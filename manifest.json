@@ -1,0 +1,40 @@
+{
+  "studio": {
+    "name": "Axolot Creators",
+    "logoUrl": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/logo.png"
+  },
+  "instances": [
+    {
+      "id": "inst_602cc74b3116",
+      "slug": "axolotsafio-4-3116",
+      "iconUrl": null,
+      "files": [],
+      "createdAt": "2026-10-22T00:57:53.849Z",
+      "updatedAt": "2026-10-23T00:39:24.483Z",
+      "name": "AxolotSafio 4",
+      "description": "",
+      "minecraftVersion": "1.21.1",
+      "modLoader": "fabric",
+      "loaderVersion": "0.19.5",
+      "javaVersion": 21,
+      "active": true,
+      "animatedImageUrl": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/visuals/inst_602cc74b3116__v_22c6af108ea9.mp4",
+      "staticImageUrl": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/visuals/inst_602cc74b3116__v_2beff51d537c.jpg",
+      "sidebarIconUrl": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/visuals/inst_602cc74b3116__v_e932036f9316.jpg",
+      "creator": "AxolotCreators",
+      "animatedLogoUrl": null,
+      "soundUrl": null
+    }
+  ],
+  "news": [
+    {
+      "id": "news_7e632cd90cf4",
+      "imageUrl": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/news-images/news_7e632cd90cf4__ni_fd74382f964e.jpg",
+      "createdAt": "2026-10-23T00:55:41.049Z",
+      "title": "Nuevo Evento",
+      "content": "Tendremos un DEDAFIO 4 SIUUU",
+      "active": true
+    }
+  ],
+  "backgrounds": []
+}
