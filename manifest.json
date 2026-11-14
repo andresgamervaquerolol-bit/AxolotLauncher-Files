@@ -8,9 +8,28 @@
       "id": "inst_602cc74b3116",
       "slug": "axolotsafio-4-3116",
       "iconUrl": null,
-      "files": [],
+      "files": [
+        {
+          "id": "f_b54d137e4792",
+          "name": "fabric-api-0.116.18+1.21.1.jar",
+          "path": "",
+          "category": "mod",
+          "size": 2453884,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_b54d137e4792__fabric-api-0.116.18_1.21.1.jar",
+          "uploadedAt": "2026-11-14T19:01:26.391Z"
+        },
+        {
+          "id": "f_89cec4461da0",
+          "name": "modmenu-11.0.5.jar",
+          "path": "",
+          "category": "mod",
+          "size": 975846,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_89cec4461da0__modmenu-11.0.5.jar",
+          "uploadedAt": "2026-11-14T19:01:57.314Z"
+        }
+      ],
       "createdAt": "2026-10-22T00:57:53.849Z",
-      "updatedAt": "2026-10-23T00:39:24.483Z",
+      "updatedAt": "2026-11-14T19:01:57.314Z",
       "name": "AxolotSafio 4",
       "description": "",
       "minecraftVersion": "1.21.1",
