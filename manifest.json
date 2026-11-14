@@ -10,26 +10,161 @@
       "iconUrl": null,
       "files": [
         {
-          "id": "f_b54d137e4792",
-          "name": "fabric-api-0.116.18+1.21.1.jar",
-          "path": "",
+          "id": "f_c72ffb1da289",
+          "name": "DEDsafio4FanByNavithLabs-1.4.0-1.21.1 (1) (1).jar",
+          "path": "mods",
           "category": "mod",
-          "size": 2453884,
-          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_b54d137e4792__fabric-api-0.116.18_1.21.1.jar",
-          "uploadedAt": "2026-11-14T19:01:26.391Z"
+          "size": 283281384,
+          "url": "https://github.com/andresgamervaquerolol-bit/AxolotLauncher-Files/releases/download/mods/files--f_c72ffb1da289__DEDsafio4FanByNavithLabs-1.4.0-1.21.1%20_1_%20_1_.jar",
+          "uploadedAt": "2026-11-14T23:14:50.750Z"
         },
         {
-          "id": "f_89cec4461da0",
-          "name": "modmenu-11.0.5.jar",
-          "path": "",
+          "id": "f_322cc7666141",
+          "name": "ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+          "path": "mods",
           "category": "mod",
-          "size": 975846,
-          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_89cec4461da0__modmenu-11.0.5.jar",
-          "uploadedAt": "2026-11-14T19:01:57.314Z"
+          "size": 633065,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_322cc7666141__ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+          "uploadedAt": "2026-11-14T23:14:55.714Z"
+        },
+        {
+          "id": "f_f3d2472f2d78",
+          "name": "sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 2996065,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_f3d2472f2d78__sophisticatedcore-1.21.1-1.2.9.21.168.jar",
+          "uploadedAt": "2026-11-14T23:14:59.005Z"
+        },
+        {
+          "id": "f_601b5fc3a9b0",
+          "name": "punchy-3.2-fabric-1.21.1.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 3794061,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_601b5fc3a9b0__punchy-3.2-fabric-1.21.1.jar",
+          "uploadedAt": "2026-11-14T23:15:02.372Z"
+        },
+        {
+          "id": "f_7e80eff0e4d3",
+          "name": "sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 988478,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_7e80eff0e4d3__sophisticatedbackpacks-1.21.1-3.23.4.3.106.jar",
+          "uploadedAt": "2026-11-14T23:15:06.696Z"
+        },
+        {
+          "id": "f_4af99935b2e9",
+          "name": "letsdo-furniture-fabric-1.1.10.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 4895363,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_4af99935b2e9__letsdo-furniture-fabric-1.1.10.jar",
+          "uploadedAt": "2026-11-14T23:15:10.422Z"
+        },
+        {
+          "id": "f_dfae0eadb1c9",
+          "name": "mcw-holidays-1.1.2-mc1.21.1fabric.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 999600,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_dfae0eadb1c9__mcw-holidays-1.1.2-mc1.21.1fabric.jar",
+          "uploadedAt": "2026-11-14T23:15:13.379Z"
+        },
+        {
+          "id": "f_dee8745e324a",
+          "name": "brazalete_vuelo-1.0.0.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 5394896,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_dee8745e324a__brazalete_vuelo-1.0.0.jar",
+          "uploadedAt": "2026-11-14T23:15:17.905Z"
+        },
+        {
+          "id": "f_b0fd281afd3b",
+          "name": "immersive-portals-6.0.6-mc1.21.1-fabric.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 3121749,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_b0fd281afd3b__immersive-portals-6.0.6-mc1.21.1-fabric.jar",
+          "uploadedAt": "2026-11-14T23:15:21.768Z"
+        },
+        {
+          "id": "f_c2a9c2e47769",
+          "name": "CustomPlayerModels-Fabric-1.21-0.6.27a (1).jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 2845602,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_c2a9c2e47769__CustomPlayerModels-Fabric-1.21-0.6.27a _1_.jar",
+          "uploadedAt": "2026-11-14T23:15:26.207Z"
+        },
+        {
+          "id": "f_8f0674120a48",
+          "name": "worldedit-mod-7.3.8.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 6222854,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_8f0674120a48__worldedit-mod-7.3.8.jar",
+          "uploadedAt": "2026-11-14T23:15:30.926Z"
+        },
+        {
+          "id": "f_1d1d54ce1fe0",
+          "name": "fabric-api-0.116.17+1.21.1.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 2452735,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_1d1d54ce1fe0__fabric-api-0.116.17_1.21.1.jar",
+          "uploadedAt": "2026-11-14T23:15:35.212Z"
+        },
+        {
+          "id": "f_825db511a9b2",
+          "name": "architectury-13.0.11-fabric.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 600921,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_825db511a9b2__architectury-13.0.11-fabric.jar",
+          "uploadedAt": "2026-11-14T23:15:39.829Z"
+        },
+        {
+          "id": "f_d3a06b8c565b",
+          "name": "revillboss-5.4.0.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 2940978,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_d3a06b8c565b__revillboss-5.4.0.jar",
+          "uploadedAt": "2026-11-14T23:15:51.403Z"
+        },
+        {
+          "id": "f_0f427be6eb03",
+          "name": "voicechat-fabric-1.21.1-2.6.24.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 5386871,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_0f427be6eb03__voicechat-fabric-1.21.1-2.6.24.jar",
+          "uploadedAt": "2026-11-14T23:15:56.116Z"
+        },
+        {
+          "id": "f_0496e727e582",
+          "name": "geckolib-fabric-1.21.1-4.9.3.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 664463,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_0496e727e582__geckolib-fabric-1.21.1-4.9.3.jar",
+          "uploadedAt": "2026-11-14T23:16:01.413Z"
+        },
+        {
+          "id": "f_9ccaeb6285d2",
+          "name": "yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 1131265,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_9ccaeb6285d2__yet_another_config_lib_v3-3.8.2_1.21.1-fabric.jar",
+          "uploadedAt": "2026-11-14T23:16:07.620Z"
         }
       ],
       "createdAt": "2026-10-22T00:57:53.849Z",
-      "updatedAt": "2026-11-14T19:01:57.314Z",
+      "updatedAt": "2026-11-14T23:16:07.620Z",
       "name": "AxolotSafio 4",
       "description": "",
       "minecraftVersion": "1.21.1",
@@ -41,29 +176,11 @@
       "staticImageUrl": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/visuals/inst_602cc74b3116__v_2beff51d537c.jpg",
       "sidebarIconUrl": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/visuals/inst_602cc74b3116__v_e932036f9316.jpg",
       "creator": "AxolotCreators",
+      "folders": [
+        "mods"
+      ],
       "animatedLogoUrl": null,
       "soundUrl": null
-    },
-    {
-      "id": "inst_83f59a5da985",
-      "slug": "test-a985",
-      "iconUrl": null,
-      "sidebarIconUrl": null,
-      "animatedLogoUrl": null,
-      "staticImageUrl": null,
-      "animatedImageUrl": null,
-      "soundUrl": null,
-      "files": [],
-      "createdAt": "2026-11-14T19:02:33.212Z",
-      "updatedAt": "2026-11-14T19:02:33.212Z",
-      "name": "test",
-      "creator": "test",
-      "description": "tests",
-      "minecraftVersion": "1.20.1",
-      "modLoader": "forge",
-      "loaderVersion": "0.19.5",
-      "javaVersion": 17,
-      "active": true
     }
   ],
   "news": [
