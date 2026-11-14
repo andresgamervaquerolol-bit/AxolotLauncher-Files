@@ -152,10 +152,19 @@
           "size": 1131265,
           "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_9ccaeb6285d2__yet_another_config_lib_v3-3.8.2_1.21.1-fabric.jar",
           "uploadedAt": "2026-11-14T23:16:07.620Z"
+        },
+        {
+          "id": "f_ab0c8ae85226",
+          "name": "DEDsafio4FanByNavithLabs.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 283281384,
+          "url": "https://github.com/andresgamervaquerolol-bit/AxolotLauncher-Files/releases/download/mods/files--f_ab0c8ae85226__DEDsafio4FanByNavithLabs.jar",
+          "uploadedAt": "2026-11-14T23:22:34.622Z"
         }
       ],
       "createdAt": "2026-10-22T00:57:53.849Z",
-      "updatedAt": "2026-11-14T23:21:59.457Z",
+      "updatedAt": "2026-11-14T23:22:34.623Z",
       "name": "AxolotSafio 4",
       "description": "",
       "minecraftVersion": "1.21.1",
