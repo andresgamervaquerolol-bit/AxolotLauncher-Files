@@ -43,6 +43,27 @@
       "creator": "AxolotCreators",
       "animatedLogoUrl": null,
       "soundUrl": null
+    },
+    {
+      "id": "inst_83f59a5da985",
+      "slug": "test-a985",
+      "iconUrl": null,
+      "sidebarIconUrl": null,
+      "animatedLogoUrl": null,
+      "staticImageUrl": null,
+      "animatedImageUrl": null,
+      "soundUrl": null,
+      "files": [],
+      "createdAt": "2026-11-14T19:02:33.212Z",
+      "updatedAt": "2026-11-14T19:02:33.212Z",
+      "name": "test",
+      "creator": "test",
+      "description": "tests",
+      "minecraftVersion": "1.20.1",
+      "modLoader": "forge",
+      "loaderVersion": "0.19.5",
+      "javaVersion": 17,
+      "active": true
     }
   ],
   "news": [
