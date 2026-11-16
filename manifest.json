@@ -170,10 +170,19 @@
           "size": 888125,
           "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_65c008b644f5__antique-atlas-3.1.2_1.21.jar",
           "uploadedAt": "2026-11-16T01:08:31.804Z"
+        },
+        {
+          "id": "f_5cc0ab325d46",
+          "name": "axolotl-lobby-1.0.0.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 10297,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_5cc0ab325d46__axolotl-lobby-1.0.0.jar",
+          "uploadedAt": "2026-11-16T01:09:05.901Z"
         }
       ],
       "createdAt": "2026-10-22T00:57:53.849Z",
-      "updatedAt": "2026-11-16T01:08:31.804Z",
+      "updatedAt": "2026-11-16T01:09:05.901Z",
       "name": "AxolotSafio 4",
       "description": "",
       "minecraftVersion": "1.21.1",
