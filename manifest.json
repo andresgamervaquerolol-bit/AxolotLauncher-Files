@@ -172,17 +172,17 @@
           "uploadedAt": "2026-11-16T01:08:31.804Z"
         },
         {
-          "id": "f_6a7d9839d64d",
-          "name": "axolotl-lobby-1.0.0.jar",
+          "id": "f_4798adf47b9f",
+          "name": "axolotl-lobby-1.0.1.jar",
           "path": "mods",
           "category": "mod",
-          "size": 12465,
-          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_6a7d9839d64d__axolotl-lobby-1.0.0.jar",
-          "uploadedAt": "2026-11-16T01:33:06.881Z"
+          "size": 19559,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_4798adf47b9f__axolotl-lobby-1.0.1.jar",
+          "uploadedAt": "2026-11-17T15:29:17.760Z"
         }
       ],
       "createdAt": "2026-10-22T00:57:53.849Z",
-      "updatedAt": "2026-11-16T01:33:06.881Z",
+      "updatedAt": "2026-11-17T15:29:17.760Z",
       "name": "AxolotSafio 4",
       "description": "",
       "minecraftVersion": "1.21.1",
