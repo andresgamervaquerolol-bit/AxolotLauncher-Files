@@ -172,17 +172,26 @@
           "uploadedAt": "2026-11-16T01:08:31.804Z"
         },
         {
-          "id": "f_4798adf47b9f",
-          "name": "axolotl-lobby-1.0.1.jar",
+          "id": "f_c3059a32a0ca",
+          "name": "axolotl-lobby-1.1.1.jar",
           "path": "mods",
           "category": "mod",
-          "size": 19559,
-          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_4798adf47b9f__axolotl-lobby-1.0.1.jar",
-          "uploadedAt": "2026-11-17T15:29:17.760Z"
+          "size": 27610,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_c3059a32a0ca__axolotl-lobby-1.1.1.jar",
+          "uploadedAt": "2026-11-19T16:45:47.981Z"
+        },
+        {
+          "id": "f_e5887f98938a",
+          "name": "DEDsafio4FanByNavithLabs-1.4.22-1.21.1.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 322504991,
+          "url": "https://github.com/andresgamervaquerolol-bit/AxolotLauncher-Files/releases/download/mods/files--f_e5887f98938a__DEDsafio4FanByNavithLabs-1.4.22-1.21.1.jar",
+          "uploadedAt": "2026-11-19T16:46:05.064Z"
         }
       ],
       "createdAt": "2026-10-22T00:57:53.849Z",
-      "updatedAt": "2026-11-17T15:29:17.760Z",
+      "updatedAt": "2026-11-19T16:46:05.064Z",
       "name": "AxolotSafio 4",
       "description": "",
       "minecraftVersion": "1.21.1",
