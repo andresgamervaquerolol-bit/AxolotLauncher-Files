@@ -181,17 +181,26 @@
           "uploadedAt": "2026-11-19T16:45:47.981Z"
         },
         {
-          "id": "f_e5887f98938a",
-          "name": "DEDsafio4FanByNavithLabs-1.4.22-1.21.1.jar",
+          "id": "f_4289c7519892",
+          "name": "axolotl-skin-1.0.0.jar",
+          "path": "mods",
+          "category": "mod",
+          "size": 11713,
+          "url": "https://andresgamervaquerolol-bit.github.io/AxolotLauncher-Files/files/f_4289c7519892__axolotl-skin-1.0.0.jar",
+          "uploadedAt": "2026-11-19T16:46:41.221Z"
+        },
+        {
+          "id": "f_1fa89983ef3b",
+          "name": "modedsafio.jar",
           "path": "mods",
           "category": "mod",
           "size": 322504991,
-          "url": "https://github.com/andresgamervaquerolol-bit/AxolotLauncher-Files/releases/download/mods/files--f_e5887f98938a__DEDsafio4FanByNavithLabs-1.4.22-1.21.1.jar",
-          "uploadedAt": "2026-11-19T16:46:05.064Z"
+          "url": "https://github.com/andresgamervaquerolol-bit/AxolotLauncher-Files/releases/download/mods/files--f_1fa89983ef3b__modedsafio.jar",
+          "uploadedAt": "2026-11-19T16:53:11.368Z"
         }
       ],
       "createdAt": "2026-10-22T00:57:53.849Z",
-      "updatedAt": "2026-11-19T16:46:05.064Z",
+      "updatedAt": "2026-11-19T16:53:11.368Z",
       "name": "AxolotSafio 4",
       "description": "",
       "minecraftVersion": "1.21.1",
